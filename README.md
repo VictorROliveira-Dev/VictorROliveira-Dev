@@ -1,7 +1,7 @@
 <h1> Opa 😁, me chamo Victor Oliveira.</h1>
 
-- 🔭 Desenvolvedor Front-end (not work yet)
-- 🧑🏽‍💻 Estudando React
+- 🔭 Desenvolvedor Web
+- 🧑🏽‍💻 Sempre aprimorando conhecimentos web.
 - 🕊️ Contate-me no email: victoroli.dev@gmail.com
 
 <h1>🛠️ Hard Skills:</h1>
