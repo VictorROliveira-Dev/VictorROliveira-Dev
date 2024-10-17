@@ -1,8 +1,8 @@
 <h1> Opa 😁, me chamo Victor Oliveira.</h1>
 
-- 🔭 Desenvolvedor Web
-- 🧑🏽‍💻 Sempre aprimorando conhecimentos web.
-- 🕊️ Contate-me no email: victoroli.dev@gmail.com
+- 🌐 Desenvolvedor Web.
+- 🧑🏼‍💻 Sempre aprimorando conhecimentos.
+- 📩 Contate-me no email: victoroli.dev@gmail.com
 
 <h1>🛠️ Hard Skills:</h1>
 <div style="display: inline_block"><br>
